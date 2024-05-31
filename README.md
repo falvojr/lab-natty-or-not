@@ -17,8 +17,7 @@ Olá a todos, bem-vindos ao nosso podcast! Hoje vamos falar sobre um avanço sig
 
 ## Áudio do Podcast
 <audio controls>
-  <source src="seu_audio.mp3" type="audio/mpeg">
-  Seu navegador não suporta o elemento de áudio.
+  <source src="[audio](https://github.com/manoeljr/lab-natty-or-not/blob/patch-1/paper_yolo_v_10.mp3)" type="audio/mpeg">
 </audio>
 
 ## Link do paper
